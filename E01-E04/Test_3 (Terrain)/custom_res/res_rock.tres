@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Test_3 (Terrain)/scripts/region_type.gd" type="Script" id=1]
+
+[resource]
+resource_local_to_scene = true
+script = ExtResource( 1 )
+region_name = "Rocks"
+height = 0.55
+col = Color( 0.215686, 0.498039, 0.0196078, 1 )

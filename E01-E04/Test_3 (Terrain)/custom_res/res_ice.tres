@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Test_3 (Terrain)/scripts/region_type.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+region_name = "Ice"
+height = 1.0
+col = Color( 0.188235, 0.529412, 0.0509804, 1 )
